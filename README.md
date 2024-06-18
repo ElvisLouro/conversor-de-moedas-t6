@@ -43,5 +43,4 @@ O Desafio Conversor de Moedas foi uma oportunidade valiosa para aprimorar habili
 
 Este desafio não apenas fortaleceu minhas habilidades técnicas, mas, também me preparou para enfrentar projetos mais complexos no futuro. Estou orgulhoso do resultado alcançado e entusiasmado para aplicar esse conhecimento em novos desafios e oportunidades de desenvolvimento.
 
-#🚀 #Alura  #Oracle 🚀#
-
+# 🚀   #Alura #Oracle 🚀 #
